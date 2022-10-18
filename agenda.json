@@ -1,0 +1,66 @@
+ //  cnn //
+ 
+ {
+    "data":	"2022-10-12 13:00:00",
+    "emailPaciente": "vctr.ss4@gmail.com",
+    "encaminhamento": 0,
+    "horaFim": "2022-10-12T16:30:00+00:00",
+    "horaInicio": "2022-10-12T16:00:00+00:00",
+    "idLocalAgenda": 0,
+    "idOrigemPaciente":	0,
+    "idPaciente": 0,
+    "idPacienteConvenio": 0,
+    "idPessoaExecutor":	"4346707000000028015",
+    "idTipoConsulta": "4346707000000122028",
+    "notificarEmailPaciente": true,
+    "notificarEmailProfissional": false,
+    "notificarSMSPaciente": true,
+    "notificarSMSProfissional":	false,
+    "notificarWhatsappPaciente": true,
+    "observacoes": 0,
+    "procedimentos": [
+        {
+          "idEspecialidade": 0,
+          "idPromocao": 0,
+          "idTipoProcedimento": 0,
+          "quantidade": 0
+        }
+      ],
+      "status": "upcoming",
+      "telefoneCelularPaciente": "+5521992935338"
+    }
+
+   // Zoho //
+
+    {
+      "booking_id": "#YO-00015",
+      "booking_type": "appointment",
+      "cost": "0.00",
+      "cost_paid": "0.00",
+      "currency": "BRL",
+      "customer_booking_start_time": "2022-10-12 13:00:00",
+      "customer_booking_time_zone": "America/Sao_Paulo GMT -03:00",
+      "customer_contact_no": "+5521992935338",
+      "customer_email": "vctr.ss4@gmail.com",
+      "customer_more_info": {
+        "booking_form_type": "service"
+      },
+      "customer_name": "Victor Sanches",
+      "due": "0.0",
+      "duration": "30 mins",
+      "iso_end_time": "2022-10-12T16:30:00+00:00",
+      "iso_start_time": "2022-10-12T16:00:00+00:00",
+      "notes": "",
+      "service_description": "Consulta de Avaliação",
+      "service_id": "4346707000000122028",
+      "service_name": "Consulta de Avaliação",
+      "staff_contact_number": "+5521992935338",
+      "staff_email": "cloud@tann.com.br",
+      "staff_id": "4346707000000028015",
+      "staff_name": "YouB Estética",
+      "status": "upcoming",
+      "summary_url": "https://youb-estetica.zohobookings.com/#/customer/youb-campinas/invoice/340c61764b77f9dfbf0cc57c9287650f64ee93a3d0c0874c7a172e912e152d82",
+      "time_zone": "America/Sao_Paulo",
+      "workspace_id": "4346707000000036048",
+      "workspace_name": "SP - Campinas"
+    }
